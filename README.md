@@ -2,20 +2,37 @@
 
 **`Digital Craftsman | Full-Stack Developer | Open Source Enthusiast`**
 
+### 👀 About Me  
+- 🎯 I'm a passionate **Full-Stack Developer** with experience in **MERN & .NET Core**.  
+- 🌱 Currently exploring **Next.js, Tailwind CSS, and AI-powered applications**.  
+- 💡 Love solving problems, optimizing code, and sharing knowledge.  
+- 💻 Open to collaborations on **exciting projects & startups**.  
+
 [![Visitors](https://komarev.com/ghpvc/?username=Abhidhakad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Abhidhakad)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhi_ngr_?style=social)](https://twitter.com/abhi_ngr_)
 [![GitHub Followers](https://img.shields.io/github/followers/Abhidhakad?label=Follow&style=social)](https://github.com/Abhidhakad)
 
-<img align="right" src="https://raw.githubusercontent.com/Abhidhakad/Abhidhakad/main/coding.gif" width="300" />
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3-eUwtpoFyl8sDblesxHD9&ust=1738843763063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMighYPArIsDFQAAAAAdAAAAABAE" width="300" />
 
-### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🛠️ Tech Stack  
+
+### 💻 **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+### 🚀 **Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+
+### ☁️ **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)   
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 
 ---
 
@@ -56,15 +73,22 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
-![Contribution Snake](https://raw.githubusercontent.com/Abhidhakad/Abhidhakad/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Abhidhakad/Abhidhakad/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ### 🤝 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/yourhandle)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhishek-nagar-708944219/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/abhi_ngr_)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:nabhishek734@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white">](https://yourportfolio.com)
+[<img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white">](https://personal-portfolio-omega-woad.vercel.app/)
+
+---
+
+
+## 🚀 Let's Build Something Awesome!  
+
+🎯 **"Code, Learn, Share & Grow Together!"** 🚀  
