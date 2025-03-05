@@ -52,12 +52,12 @@
 
 ### 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhidhakad&repo=project1&theme=radical)](https://github.com/Abhidhakad/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhidhakad&repo=project1&theme=radical)](https://github.com/Abhidhakad/yt-clone.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhidhakad&repo=project2&theme=radical)](https://github.com/Abhidhakad/project2)
 
 ---
 
-### 📝 Latest Blog Posts
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Real-time Chat Application with WebSockets](https://yourblog.com/post1)
