@@ -11,6 +11,8 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Abhidhakad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Abhidhakad)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhi_ngr_?style=social)](https://twitter.com/abhi_ngr_)
 [![GitHub Followers](https://img.shields.io/github/followers/Abhidhakad?label=Follow&style=social)](https://github.com/Abhidhakad)
+[![GitHub followers](https://img.shields.io/github/followers/Abhidhakad?label=Followers&style=social)](https://github.com/Abhidhakad?tab=followers)
+
 
 <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3-eUwtpoFyl8sDblesxHD9&ust=1738843763063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMighYPArIsDFQAAAAAdAAAAABAE" width="300" />
 
